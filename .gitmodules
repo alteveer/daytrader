@@ -1,0 +1,6 @@
+[submodule "lib/flixel"]
+	path = lib/flixel
+	url = git://github.com/AdamAtomic/flixel
+[submodule "lib/sprintf-as"]
+	path = lib/sprintf-as
+	url = git://github.com/arthur-debert/printf-as3.git
